@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Dongming Hu, GameProgrammer, Launches Site"
-date: 20147-05-18
+title: "胡东明的博客, 建立网站"
+date: 2017-05-18
 ---
 
 Well. Finally got around to putting this old website together. 
