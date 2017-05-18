@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "胡东明的博客, 建立网站"
+title: "Hello World！"
 date: 2017-05-18
 ---
 
-Well. Finally got around to putting this old website together. 
+今晚在这篇[教程](http://jekyllrb.com)的帮助下我完成了我的博客的搭建。这个教程做得非常好。
 
-Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
-
-It actually is a lot easier than I thought it was going to be.
